@@ -15,4 +15,10 @@ For help getting started with Flutter, view the [online documentation](https://f
 
 ## Credits
 
-- Icons made by [Prosymbols](https://www.flaticon.com/authors/prosymbols) from [www.flaticon.com](https://www.flaticon.com/) is licensed by [CC 3.0 BY](http://creativecommons.org/licenses/by/3.0/)
+- Icons made by [Prosymbols](https://www.flaticon.com/authors/prosymbols) from [www.flaticon.com](https://www.flaticon.com/) are licensed under [CC BY 3.0](http://creativecommons.org/licenses/by/3.0/)
+
+## License & Copyright
+
+Copyright © 2019 Sri Harsha Tirupachur Comerica
+
+Licensed under [GNU AGPL v3.0](LICENSE)
