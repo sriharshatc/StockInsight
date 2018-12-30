@@ -1,17 +1,17 @@
 import 'package:flutter/material.dart';
-import 'package:stock_insight/widgets/login.dart';
+import 'package:stock_insight/screens/login.dart';
 
-void main() => runApp(new MyApp());
+void main() => runApp(MyApp());
 
 class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
-    return new MaterialApp(
+    return MaterialApp(
       title: 'StockInsight',
-      theme: new ThemeData(
+      theme: ThemeData(
         primaryColor: Colors.grey[850],
       ),
-      home: new Login(),
+      home: Login(),
     );
   }
 }
